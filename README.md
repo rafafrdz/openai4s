@@ -1,4 +1,6 @@
-# OpenAI Scala Client 🤖 [![version](https://img.shields.io/badge/version-0.1.1-green.svg)](https://cequence.io) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+# OpenAI4s [![version](https://img.shields.io/badge/version-0.1.1-green.svg)](https://cequence.io) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
+Fork from: [OpenAI Scala Client](https://github.com/cequence-io/openai-scala-client) 🤖
 
 This is a no-nonsense async Scala client for OpenAI API supporting all the available endpoints and params (as defined [here](https://beta.openai.com/docs/api-reference)), provided in a single, convenient service called [OpenAIService](./openai-core/src/main/scala/io/cequence/openaiscala/service/OpenAIService.scala). The supported calls are: 
 
